@@ -14,7 +14,7 @@
 	],
 	"engines": {
 		"vscode": "^1.30.0-insider",
-		"node": "^8.9.3"
+		"node": ">=8.9.3"
 	},
 	"icon": "images/mock-debug-icon.png",
 	"categories": [
